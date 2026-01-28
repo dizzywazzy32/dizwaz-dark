@@ -12,7 +12,7 @@
     "warning-color": "#FF4800",
     "alert": "#FF4800",
 
-    "sidebar-color": "#001523",
+    "sidebar-color": "#000d15",
 
     "roomlist-background-color": "#041F33",
     "roomlist-text-color": "#EAF3FA",
@@ -20,7 +20,7 @@
     "roomlist-highlights-color": "#002859",
     "roomlist-separator-color": "#01396B",
 
-    "timeline-background-color": "#001523",
+    "timeline-background-color": "#000d15",
     "timeline-text-color": "#EDF6FF",
     "timeline-text-secondary-color": "#A9CBE0",
     "timeline-highlights-color": "#002859",
@@ -59,7 +59,7 @@
     ]
   },
   "compound": {
-    "--cpd-color-bg-canvas-default": "#001523",
+    "--cpd-color-bg-canvas-default": "#000d15",
     "--cpd-color-bg-subtle-primary": "#002859",
     "--cpd-color-bg-subtle-secondary": "#041F33",
 
