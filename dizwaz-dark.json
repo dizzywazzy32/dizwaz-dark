@@ -64,7 +64,7 @@
     "--cpd-color-bg-subtle-secondary": "#041F33",
 
     "--cpd-color-text-primary": "#EDF6FF",
-    "--cpd-color-text-secondary": "#A9CBE0",
+    "--cpd-color-text-secondary": "#66737b",
     "--cpd-color-text-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-icon-primary": "#EAF3FA",
@@ -76,8 +76,8 @@
     "--cpd-color-icon-accent-tertiary": "#FF4800",
 
     "--cpd-color-bg-action-primary-rest": "#FF4800",
-    "--cpd-color-bg-action-primary-hovered": "#E64100",
-    "--cpd-color-bg-action-primary-pressed": "#CC3A00",
+    "--cpd-color-bg-action-primary-hovered": "#1a2c39",
+    "--cpd-color-bg-action-primary-pressed": "#808a91",
 
     "--cpd-color-border-interactive-primary": "#FF4800",
     "--cpd-color-border-interactive-hovered": "#E64100",
