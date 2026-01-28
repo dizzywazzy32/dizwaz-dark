@@ -22,7 +22,7 @@
 
     "timeline-background-color": "#001523",
     "timeline-text-color": "#EDF6FF",
-    "timeline-text-secondary-color": "#A9CBE0",
+    "timeline-text-secondary-color": "#FF4800",
     "timeline-highlights-color": "#002859",
 
     "secondary-content": "#87B5D8",
@@ -34,7 +34,7 @@
     "room-highlight-color": "#002859",
 
     "other-user-pill-bg-color": "#01396B",
-    "icon-button-color": "#A9CBE0",
+    "icon-button-color": "#FF4800",
     "togglesw-off-color": "#5590BC",
 
     "username-colors": [
@@ -68,7 +68,7 @@
     "--cpd-color-text-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-icon-primary": "#EAF3FA",
-    "--cpd-color-icon-secondary": "#A9CBE0",
+    "--cpd-color-icon-secondary": "#FF4800",
     "--cpd-color-icon-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-text-action-accent": "#FF4800",
