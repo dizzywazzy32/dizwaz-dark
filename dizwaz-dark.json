@@ -68,7 +68,7 @@
     "--cpd-color-text-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-icon-primary": "#EAF3FA",
-    "--cpd-color-icon-secondary": "#FF4800",
+    "--cpd-color-icon-secondary": "#A9CBE0",
     "--cpd-color-icon-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-text-action-accent": "#FF4800",
