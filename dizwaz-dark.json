@@ -61,6 +61,7 @@
         "--cpd-color-icon-primary": "#EAF3FA",
         "--cpd-color-icon-secondary": "#A9CBE0",
         "--cpd-color-icon-on-solid-primary": "#FFFFFF",
+        "--cpd-color-bg-action-secondary-hovered": "#001523",
         "--cpd-color-text-action-accent": "#FF4800",
         "--cpd-color-icon-accent-primary": "#FF4800",
         "--cpd-color-icon-accent-tertiary": "#FF4800",
