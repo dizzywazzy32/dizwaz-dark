@@ -68,6 +68,8 @@
         "--cpd-color-bg-action-primary-rest": "#FF4800",
         "--cpd-color-bg-action-primary-hovered": "#E64100",
         "--cpd-color-bg-action-primary-pressed": "#CC3A00",
+        "--cpd-color-bg-action-secondary-hovered": "#001523",
+
         "--cpd-color-border-interactive-primary": "#FF4800",
         "--cpd-color-border-interactive-hovered": "#E64100",
         "--cpd-color-bg-critical-primary": "#FF4800",
