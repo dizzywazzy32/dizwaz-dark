@@ -57,7 +57,7 @@
         "--cpd-color-bg-subtle-secondary": "#041F33",
         "--cpd-color-text-primary": "#EDF6FF",
         "--cpd-color-text-secondary": "#A9CBE0",
-        "--cpd-color-text-on-solid-primary": "#FF4800",
+        "--cpd-color-text-on-solid-primary": "#000000",
         "--cpd-color-icon-primary": "#EAF3FA",
         "--cpd-color-icon-secondary": "#A9CBE0",
         "--cpd-color-icon-on-solid-primary": "#FFFFFF",
